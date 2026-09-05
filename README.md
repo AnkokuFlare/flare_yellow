@@ -25,6 +25,7 @@ A vanilla+ experience that includes Shiny, Quests, Voxel Ascendant, Gen 2 Sprite
 Flare Yellow is a 45 mod vanilla+ modpack that includes QOL, Quests, Voxel, Gen 2 Sprites, UI Mods, and Shiny Mods.The Music is primarily HGSS. This cart was made to make the professor oak challenge much more fun and engaging to revisit my first pokemon game.It comes package with dynamic scaling and dynamax to keep up with the over leveling that comes with some challenges.
 
 ### Features:
+- Dynamax Gimmick
 - Crystal Sprites and Gen 2 Trainer Sprite character selector
 - Catch All 151 Pokemon
  - LV40~ Evolution for Link Trades Pokemon
