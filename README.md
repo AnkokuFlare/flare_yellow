@@ -42,3 +42,4 @@ Flare Yellow is a 45 mod vanilla+ modpack that includes QOL, Quests, Voxel, Gen 
 - Trainers Team Scale Dynamicly
 - Item Finder passively makes hidden Items shine
 - Add items to the quick shortcut menu from the menu.
+- Gen 5 Crit Capture Mechanics. The more you have in the Dex the less balls you'll have to spam.
