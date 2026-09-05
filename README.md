@@ -1,6 +1,8 @@
 # Gen1Recomp Flare Yellow Custom Cart
 A vanilla+ experience that includes Shiny, Quests, Voxel Ascendant, Gen 2 Sprites,UI Mods,and QOL Mods.
 
+## Tested for Desktop Only
+
 <p align="center">
   <img src="flarebannerscreenie.png" width="1280" alt="Project Banner">
 </p>
