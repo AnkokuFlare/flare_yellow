@@ -1,5 +1,5 @@
 # Gen1Recomp Flare Yellow Custom Cart
-A vanilla+ experience that includes Shiny, Quests, Voxel Ascendant, Gen 2 Sprites,UI Mods,and QOL Mods.
+A QOLmaxing experience that includes Shiny, Quests, Voxel Ascendant, Gen 2 Sprites,UI Mods,and QOL Mods.
 
 ### Tested for Desktop Only
 
